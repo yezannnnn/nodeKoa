@@ -34,6 +34,14 @@ class AccountService {
             throw new Error('the data with id is not exist!');
         }
     };
+    async setToken(id,token){
+        const item = await this.getAccountById(id)
+         if (item) {
+            return item.update({token:token})
+        } else {
+            throw new Error('the data with id is not exist!');
+        }
+    };
 }
 
 module.exports = new AccountService();

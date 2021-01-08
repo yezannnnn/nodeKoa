@@ -15,6 +15,10 @@ const Account = sequelize.define('account', {
             this.setDataValue('password', md5(value));
         }
     },
+    token: {
+        type: Sequelize.STRING,
+        allowNull: true,
+    },
     role: {
         type: Sequelize.STRING,
         allowNull: false,

@@ -1,5 +1,6 @@
 const AccountService = require('../service/account');
 const md5 = require('md5-node')
+const jwt = require('jsonwebtoken')
 // parameter
 const accountParam = require('./parameter/account')
 
@@ -11,6 +12,13 @@ class AccountController {
         var account = await AccountService.getAccountByUserName(username);
         if (account) {
             if (md5(password) === account.password) {
+                // 生成token 登录替换token
+                const token = jwt.sign({
+                    name: account.username,
+                    _id: account.id
+                }, 'nodeKoa', { expiresIn: '2h' });
+                console.log('========>',token)
+                account = await AccountService.setToken(account.id,token)
                 ctx.success(account)
             } else {
                 ctx.fail(201, '密码错误')
