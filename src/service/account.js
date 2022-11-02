@@ -1,4 +1,5 @@
 const { Account } = require('../model/index');
+// const Redis = require('../../config/redis')
 
 class AccountService {
     async getAccountById(id) {
@@ -8,6 +9,7 @@ class AccountService {
             },
         });
     };
+
     async getAccountByUserName(name) {
         return Account.findOne({
             where: {
@@ -16,9 +18,16 @@ class AccountService {
             },
         });
     };
+
+    async getAccountInfo() {  
+        // return Redis.hmget()
+    }
+
     async createAccount(params) {
+        // await Redis.hmset(params.username, params)
         return Account.create(params);
     };
+
     async delAccount(id) {
         return Account.destroy({
             where: {
@@ -26,6 +35,7 @@ class AccountService {
             }
         })
     };
+
     async updateAccount(id,params) {
         const item = await this.getAccountById(id)
         if (item) {

@@ -1,6 +1,7 @@
 const AccountService = require('../service/account');
 const md5 = require('md5-node')
 const jwt = require('jsonwebtoken')
+const { verToken } = require('../middleware/jwt')
 // parameter
 const accountParam = require('./parameter/account')
 
@@ -17,8 +18,8 @@ class AccountController {
                     name: account.username,
                     _id: account.id
                 }, 'nodeKoa', { expiresIn: '2h' });
-                console.log('========>',token)
-                account = await AccountService.setToken(account.id,token)
+                console.log('========>', token)
+                account = await AccountService.setToken(account.id, token)
                 ctx.success(account)
             } else {
                 ctx.fail(201, '密码错误')
@@ -61,6 +62,13 @@ class AccountController {
         await AccountService.delAccount(id)
         ctx.success()
     };
+    // 获取详情
+    async getInfo(ctx) {
+        // id = 
+        const id = await verToken(ctx.request.header.authorization)._id
+        const info = await AccountService.getAccountInfo(id)
+        ctx.success(info)
+    }
 }
 
 module.exports = new AccountController();

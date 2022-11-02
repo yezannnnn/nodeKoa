@@ -6,6 +6,8 @@ const onerror = require('koa-onerror')
 const bodyparser = require('koa-bodyparser')
 const logger = require('koa-logger')
 const parameter = require('koa-parameter')
+var cors = require('koa2-cors');
+const WebSocket = require('ws');
 
 const index = require('./src/routes/index')
 // 中间件
@@ -14,7 +16,6 @@ const { jwtInit } = require('./src/middleware/jwt')
 
 // 异常状态处理 需要再jwtInit前
 app.use(async (ctx, next) => {
-    console.log('err===========>', ctx)
     return next().catch((err) => {
         if (err.status === 401) {
             ctx.status = 401
@@ -29,6 +30,8 @@ app.use(async (ctx, next) => {
     })
 })
 
+//允许跨域
+app.use(cors());
 app.use(jsonResponse())
 app.use(jwtInit())
 // error handler
@@ -64,6 +67,20 @@ app.use(index.routes(), index.allowedMethods())
 app.on('error', (err, ctx) => {
     console.error('server error', err, ctx)
 });
+
+// ws
+// const ws = new WebSocket.Server({port: 8888});
+// ws.on('connection', ws => {
+//     console.log('server connection');
+
+//     ws.on('message', msg => {
+//         console.log('server receive msg：', msg);
+//         let data = { type: 1, content:'11111', cid: '2' }
+//         ws.send(JSON.stringify(data))
+//     });
+
+//     ws.send(JSON.stringify({ type: 1, content:'11111', cid: '2' }));
+// });
 
 
 module.exports = app

@@ -1,0 +1,1265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"scence"
+			],
+			[
+				"inf",
+				"informLists"
+			],
+			[
+				"sele",
+				"selectType"
+			],
+			[
+				"user",
+				"userListObj"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"l",
+				"loading"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"da",
+				"dataList"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"fontSize"
+			],
+			[
+				"ju",
+				"justify-center"
+			],
+			[
+				"getM",
+				"getMyHeight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"in",
+				"infoHeight"
+			],
+			[
+				"m",
+				"mixins"
+			],
+			[
+				"se",
+				"SET_SHOWEXPIRE"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"sys",
+				"sysMsgType"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"f",
+				"fill"
+			],
+			[
+				"fa",
+				"fastList"
+			],
+			[
+				"day",
+				"dayoffForm"
+			],
+			[
+				"ta",
+				"taskID"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"del",
+				"dealWorkItem"
+			],
+			[
+				"sh",
+				"showMessage"
+			],
+			[
+				"sta",
+				"stata"
+			],
+			[
+				"j",
+				"justify-center"
+			],
+			[
+				"sear",
+				"searchVal"
+			],
+			[
+				"sho",
+				"showA"
+			],
+			[
+				"show",
+				"showA"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"di",
+				"dialog"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"tr",
+				"translateX()\ttransform"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"flex",
+				"flex-flow\tproperty"
+			],
+			[
+				"scr",
+				"src"
+			],
+			[
+				"img",
+				"imgList"
+			],
+			[
+				"h",
+				"h_i"
+			],
+			[
+				"more",
+				"moreGift"
+			],
+			[
+				"p_",
+				"p_btn"
+			],
+			[
+				"p",
+				"p_i"
+			],
+			[
+				"pr",
+				"prizeDialog"
+			],
+			[
+				"prize",
+				"prizeDialog"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"rule",
+				"ruleDialog"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"mo",
+				"money"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"stan",
+				"standardList"
+			],
+			[
+				"getMO",
+				"getMonthCX"
+			],
+			[
+				"old",
+				"oldQuestion"
+			],
+			[
+				"gx",
+				"guanXiQuesPage_1"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"ge",
+				"guanXiQuesPage_4"
+			],
+			[
+				"so",
+				"sort"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"is",
+				"isOld"
+			],
+			[
+				"reke",
+				"remake3"
+			],
+			[
+				"wi",
+				"width-100"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"as",
+				"answer"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"fle",
+				"flex-flow\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"web",
+				"webkit-scrollbar"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"star",
+				"meetingStartTime"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"ma",
+				"makeCard"
+			],
+			[
+				"new",
+				"newv"
+			],
+			[
+				"sat",
+				"startTime"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"curr",
+				"currentDangType"
+			],
+			[
+				"sc",
+				"screenW"
+			],
+			[
+				"el",
+				"elmenu"
+			],
+			[
+				"ms",
+				"msgLoading"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"rec",
+				"recordOptions"
+			],
+			[
+				"cur",
+				"curItem"
+			],
+			[
+				"em",
+				"emptyFastList"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"sel",
+				"nowSelectDay"
+			],
+			[
+				"upl",
+				"uploadVideoServer"
+			],
+			[
+				"we",
+				"web-info"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"r",
+				"router"
+			],
+			[
+				"shw",
+				"showD"
+			],
+			[
+				"a",
+				"abroadForm"
+			],
+			[
+				"showD",
+				"showDayoffDeal"
+			],
+			[
+				"wor",
+				"dealWorkItem"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"data",
+				"dataArr"
+			],
+			[
+				"nex",
+				"nextPath"
+			],
+			[
+				"flx",
+				"flex-start\tjustify-content"
+			],
+			[
+				"Jum",
+				"jumpToPage"
+			],
+			[
+				"work",
+				"workLoading"
+			],
+			[
+				"w",
+				"work"
+			],
+			[
+				"bu",
+				"bulletinLoading"
+			],
+			[
+				"next",
+				"nextArr"
+			],
+			[
+				"ne",
+				"nextArr"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"pat",
+				"paths"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"fas",
+				"fastArr"
+			],
+			[
+				"icon",
+				"iconRight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "node.sublime-project",
+			"settings":
+			{
+				"buffer_size": 225,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAACsAAAAAAAAAvgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"htmlprettify",
+					null,
+					"AQAAAAAAAAAAAAAA5AAAAAAAAADBAAAAewoJImZvbGRlcnMiOgoJWwoJCXsKCQkJInBhdGgiOiAiLiIKCQl9CgldLCJkZWJ1Z2dlcl9jb25maWd1cmF0aW9ucyI6CiBbCiAgewogICAibmFtZSI6ICJOb2RlIiwKICAgInR5cGUiOiAibm9kZSIsCiAgICJyZXF1ZXN0IjogImxhdW5jaCIsCiAgICJwcm9ncmFtIjogIiR7cHJvamVjdF9wYXRofS9qcy9hcHAuanMiLAogIH0sCiBdLAp9Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC+AAAAAAAAAL4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					2,
+					"left_delete",
+					null,
+					"AgAAAM0AAAAAAAAAzQAAAAAAAAACAAAAanPMAAAAAAAAAMwAAAAAAAAAAQAAAC8",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNAAAAAAAAAM8AAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1984,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "const router = require('koa-router')()\n// models\nconst userRouter = require('./model/user');\nconst todoRouter = require('./model/todo');\nconst templateRouter = require('./model/template');\n\nvar routerArry = [\n\tuserRouter,\n\ttodoRouter,\n\ttemplateRouter\n]\n\nrouterArry.forEach((item) => {\n\trouter.use('/api', item.routes(), item.allowedMethods())\n})\n\nmodule.exports = router ",
+			"file": "src/routes/index.js",
+			"file_size": 370,
+			"file_write_time": 132598310593563450,
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"",
+					null,
+					"AQAAAHIBAAAAAAAAcwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AQAAAHIBAAAAAAAAcgEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAcwEAAAAAAABzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHIBAAAAAAAAcwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\nre"
+					},
+					"AwAAAFkBAAAAAAAAWgEAAAAAAAAAAAAAWgEAAAAAAABbAQAAAAAAAAAAAABbAQAAAAAAAFwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert_completion",
+					{
+						"completion": "require",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "require"
+					},
+					"AgAAAFoBAAAAAAAAWgEAAAAAAAACAAAAcmVaAQAAAAAAAGEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					7,
+					"left_delete",
+					null,
+					"BwAAAGABAAAAAAAAYAEAAAAAAAABAAAAZV8BAAAAAAAAXwEAAAAAAAABAAAAcl4BAAAAAAAAXgEAAAAAAAABAAAAaV0BAAAAAAAAXQEAAAAAAAABAAAAdVwBAAAAAAAAXAEAAAAAAAABAAAAcVsBAAAAAAAAWwEAAAAAAAABAAAAZVoBAAAAAAAAWgEAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAFoBAAAAAAAAWwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFoBAAAAAAAAWgEAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAWwEAAAAAAABbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"",
+					null,
+					"AQAAAFoBAAAAAAAAWwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"",
+					null,
+					"AQAAAFoBAAAAAAAAXAEAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAWwEAAAAAAABbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"",
+					null,
+					"AQAAAFoBAAAAAAAAXQEAAAAAAAACAAAAZm8",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"",
+					null,
+					"AQAAAFoBAAAAAAAAWgEAAAAAAAADAAAAZm9y",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "for"
+					},
+					"AwAAAFoBAAAAAAAAWwEAAAAAAAAAAAAAWwEAAAAAAABcAQAAAAAAAAAAAABcAQAAAAAAAF0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "E"
+					},
+					"AQAAAF0BAAAAAAAAXgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					5,
+					"left_delete",
+					null,
+					"BQAAAF4BAAAAAAAAXgEAAAAAAAABAAAACl0BAAAAAAAAXQEAAAAAAAABAAAARVwBAAAAAAAAXAEAAAAAAAABAAAAclsBAAAAAAAAWwEAAAAAAAABAAAAb1oBAAAAAAAAWgEAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAXwEAAAAAAABfAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Preferences: SublimeLinter Settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JsPrettier: Format Code"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"ls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"f",
+				"Formatter: Language Code Format"
+			],
+			[
+				"fo",
+				"Formatter: Language Code Format"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"LSP",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"lspd",
+				"LSP: Show Diagnostics"
+			],
+			[
+				"lspen",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"l",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"in",
+				"Indexing Status"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 432.0,
+		"history":
+		[
+			"eslint --init",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp  = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try           manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yuhao/Desktop/yezannnn/nodeKoa",
+		"/Users/yuhao/Desktop/yezannnn/nodeKoa/src",
+		"/Users/yuhao/Desktop/yezannnn/nodeKoa/src/routes",
+		"/Users/yuhao/Desktop/yezannnn/nodeKoa/src/routes/model"
+	],
+	"file_history":
+	[
+		"/untitled.sublime-project",
+		"/Users/yuhao/Desktop/three.html",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/layout/components/MessageList/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/msgcenter/msgList/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/api/modules/office.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/directory/publicDirectory.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/directory/components/detail.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/user/sitenotiy/inBox/components/detail.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/components/MemberTree/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/duty/dutyStatistics/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/directory/components/account.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/components/index/fast/customlinkManage.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/directory/components/userInfo.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/user/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/budget/manage/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/assets/styles/customIcon.scss",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/payment/audit.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/contract/audit.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/budget/manage/lists.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/meeting/inform/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/petition/region/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/petition/myDraftList/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/payment/list.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/contract/list.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/procurement/audit/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/procurement/manage/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/duty/duty/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/meeting/district/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/logistics/car/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/user/sitenotiy/outBox/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/components/index/link/customlinkManage.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/scheduling/components/oftenUsedDialog.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/dayOffList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/auiting/dayOffList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/auiting/reportBack.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/outCityList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/reportBackList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/auiting/outCityList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/auiting/goAbroadList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/clockingInManage/cardApproval/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/goAbroadList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/clockingInManage/makeUpCard/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/directory/directory.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/budget/audit/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/sendBumph/dispatchBumph/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/inspection/districtOffice/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/inspection/makeDraft/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/inspection/audit/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/collectBumph/backlog/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/sendBumph/audit/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/petition/my/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/petition/long/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/collectBumph/oaBumph/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/collectBumph/my/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/newsbulletin/bulletin/bulletins/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/newsbulletin/three/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/newsbulletin/bulletin/notify/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/newsbulletin/news/components/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/newsbulletin/party/components/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/meeting/components/view.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/meeting/manage/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/scheduling/components/editDialog.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/scheduling/components/schedulingDialog.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/knowledge/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/tool/build/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/user/sitenotiy/inBox/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/components/FileUpload/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/collectBumph/complete/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/sendBumph/receive/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/inspection/dispose/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/inspection/receive/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/activiti/modeler/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/config/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/dept/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/dict/data.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/dict/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/menu/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/notice/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/post/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/role/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/information/user/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/monitor/job/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/tool/gen/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/activiti/definition/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/log/logininfor/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/log/operlog/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/monitor/job/log.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/system/monitor/online/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/tool/build/DraggableItem.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/tool/build/RightPanel.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/components/ImageUpload/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/components/UploadCropper/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/assets/styles/index.scss",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/common/common.scss",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/layout/components/Footer/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/login.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/assets/icons/svg/del.svg",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/clockingInManage/statistics/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/components/clockingStatic.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/clockingInManage/myClockingIn/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/duty/duty/components/detail.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/utils/request.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/page/contactUs.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/page/messageDetail.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/page/newsDetail.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/page/html.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/components/form/goAbroadForm.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/clockingInManage/statistics/view.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/budget/collect/lists.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/inspection/components/lists.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/trade/houseBusiness/addhousing/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/procurement/manage/lists.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/petition/components/list.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/capital/procurement/collect/lists.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/sendBumph/component/bumphList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/bumph/collectBumph/component/bumphList.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/mixins/tableHeightMixin.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/store/getters.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/store/modules/app.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/logistics/dinner/index.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/meeting/district/components/list.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/App.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/components/Editor/editor.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/main.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/api/modules/system.js",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/components/abroadDetail.vue",
+		"/Users/yuhao/Desktop/yezannnn/housingManage/src/views/office/dayoff/my/components/form/dayoffForm.vue"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "node.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1191
+							]
+						],
+						"settings":
+						{
+							"SL.21.region_keys":
+							[
+								"SL.eslint.Highlights.|b419fd5e53f9a7322fda48140647c4d11c00102d0ad576e0218e0cba6f495b96|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/routes/index.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.30.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 269.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 391.0
+	},
+	"output.GoSublime/HUD":
+	{
+		"height": 0.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 162.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 168.0
+	},
+	"output.diagnostics":
+	{
+		"height": 150.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "node.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "folders": [
+    {
+        "path": "."
+    }],
+    "debugger_configurations": [
+    {
+        "name": "Node",
+        "type": "node",
+        "request": "launch",
+        "program": "${project_path}/app.js",
+    }, ],
+}

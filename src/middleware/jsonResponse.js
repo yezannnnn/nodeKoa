@@ -16,6 +16,10 @@ function jsonResponse(option = {}) {
                 data: null
             }
         }
+        ctx.file = function (file,fileName) {
+            ctx.set('Content-disposition','attachment;filename='+fileName);
+            ctx.body = file
+        }
         await next()
     }
 }
